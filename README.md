@@ -1,5 +1,5 @@
 # Position-Based-Dynamics-journal
-Building a real-time physics engine from a research paper. progress log — C++, math, and the truth about learning hard things from scratch.
+16yr Building a real-time physics engine from a research paper. progress log — C++, math, and the truth about learning hard things from scratch.
 PBD Journey — Building a Physics Engine from a Research Paper
 A progress log of a 16-year-old teaching himself C++, mathematics, and physics by implementing Position Based Dynamics — a real-time simulation method used in games and film.
 
