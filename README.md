@@ -10,5 +10,5 @@ A real-time 3D cloth simulator with distance constraints, bending resistance, co
 Why I am doing this publicly:
 Because the process is the point. Anyone can post a finished project. This is the unfinished version — every confusion, every breakthrough, every line of code that finally compiles after two hours of debugging.
 Because a year from now I want proof — to myself more than anyone else — that I did this.
-Stack: C++ — OpenGL — GLFW — GLM
+Stack: C++ — raylib
 started : March 2026
